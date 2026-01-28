@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshith Gowda</h1>
 <h3 align="center">Information Science Student | Web Development | Cloud Computing | Cybersecurity</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshipilot&label=Profile%20views&color=0e75b6&style=flat" alt="harshipilot" /> </p>
 
