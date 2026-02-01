@@ -42,7 +42,7 @@ Information Science Student • Web Development • Cloud Computing • Cybersec
 
 ### 🤝 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/harshith-gowda" target="_blank">
+  <a href="https://linkedin.com/in/harshith-gowda-438582352" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
