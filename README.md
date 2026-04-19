@@ -63,7 +63,8 @@ Information Science Student • Web Development • Cloud Computing • Cybersec
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+### 🛠️ Languages & Tools
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
