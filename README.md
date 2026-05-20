@@ -64,7 +64,6 @@ Information Science Student • Web Development • Cloud Computing • Cybersec
 ---
 
 
-### 🛠️ Languages & Tools
 
 ### 🛠️ Languages & Tools
 
